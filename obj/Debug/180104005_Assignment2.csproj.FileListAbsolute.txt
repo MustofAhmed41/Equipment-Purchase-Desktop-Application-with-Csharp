@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\180104005_Assignment2\bin\Debug\180104005_Assignment2.exe.config
+C:\Users\USER\source\repos\180104005_Assignment2\bin\Debug\180104005_Assignment2.exe
+C:\Users\USER\source\repos\180104005_Assignment2\bin\Debug\180104005_Assignment2.pdb
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\180104005_Assignment2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\_180104005_Assignment2.Properties.Resources.resources
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\180104005_Assignment2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\180104005_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\180104005_Assignment2.exe
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\180104005_Assignment2.pdb
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\_180104005_Assignment2.Form1.resources
+C:\Users\USER\source\repos\180104005_Assignment2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\180104005_Assignment2.csproj.CopyComplete
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\_180104005_Assignment2.Form2.resources
+C:\Users\USER\source\repos\180104005_Assignment2\obj\Debug\_180104005_Assignment2.Form3.resources
